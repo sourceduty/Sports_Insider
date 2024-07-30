@@ -60,6 +60,41 @@ NASCAR Cup Series
         └── Conduct Rules
 ```
 
+```
+Anaheim Ducks:
+- vs Arizona Coyotes on 2024-10-01, Result: Anaheim Ducks 3-2 Arizona Coyotes (Win)
+- vs Boston Bruins on 2024-10-05, Result: Boston Bruins 4-1 Anaheim Ducks (Loss)
+- at Buffalo Sabres on 2024-10-10, Result: Buffalo Sabres 2-1 Anaheim Ducks (Loss)
+- vs Calgary Flames on 2024-10-15, Result: Calgary Flames 2-3 Anaheim Ducks (Win)
+- at Carolina Hurricanes on 2024-10-20, Result: Carolina Hurricanes 4-2 Anaheim Ducks (Loss)
+- vs Chicago Blackhawks on 2024-10-25, Result: Anaheim Ducks 5-3 Chicago Blackhawks (Win)
+- at Colorado Avalanche on 2024-10-30, Result: Colorado Avalanche 3-1 Anaheim Ducks (Loss)
+- vs Columbus Blue Jackets on 2024-11-05, Result: Anaheim Ducks 2-2 Columbus Blue Jackets (Draw)
+- at Dallas Stars on 2024-11-10, Result: Dallas Stars 4-1 Anaheim Ducks (Loss)
+- vs Detroit Red Wings on 2024-11-15, Result: Anaheim Ducks 3-2 Detroit Red Wings (Win)
+- at Edmonton Oilers on 2024-11-20, Result: Edmonton Oilers 5-4 Anaheim Ducks (Loss)
+- vs Florida Panthers on 2024-11-25, Result: Anaheim Ducks 2-1 Florida Panthers (Win)
+- at Los Angeles Kings on 2024-11-30, Result: Los Angeles Kings 3-0 Anaheim Ducks (Loss)
+- vs Minnesota Wild on 2024-12-05, Result: Anaheim Ducks 4-2 Minnesota Wild (Win)
+- at Montreal Canadiens on 2024-12-10, Result: Montreal Canadiens 3-1 Anaheim Ducks (Loss)
+- vs Nashville Predators on 2024-12-15, Result: Anaheim Ducks 2-3 Nashville Predators (Loss)
+- at New Jersey Devils on 2024-12-20, Result: New Jersey Devils 4-1 Anaheim Ducks (Loss)
+- vs New York Islanders on 2024-12-25, Result: Anaheim Ducks 3-3 New York Islanders (Draw)
+- at New York Rangers on 2024-12-30, Result: New York Rangers 4-3 Anaheim Ducks (Loss)
+- vs Ottawa Senators on 2025-01-05, Result: Anaheim Ducks 5-2 Ottawa Senators (Win)
+- at Philadelphia Flyers on 2025-01-10, Result: Philadelphia Flyers 2-1 Anaheim Ducks (Loss)
+- vs Pittsburgh Penguins on 2025-01-15, Result: Anaheim Ducks 3-4 Pittsburgh Penguins (Loss)
+- at San Jose Sharks on 2025-01-20, Result: San Jose Sharks 3-2 Anaheim Ducks (Loss)
+- vs Seattle Kraken on 2025-01-25, Result: Anaheim Ducks 4-3 Seattle Kraken (Win)
+- at St. Louis Blues on 2025-01-30, Result: St. Louis Blues 2-1 Anaheim Ducks (Loss)
+- vs Tampa Bay Lightning on 2025-02-05, Result: Tampa Bay Lightning 3-3 Anaheim Ducks (Draw)
+- at Toronto Maple Leafs on 2025-02-10, Result: Toronto Maple Leafs 4-1 Anaheim Ducks (Loss)
+- vs Vancouver Canucks on 2025-02-15, Result: Anaheim Ducks 2-4 Vancouver Canucks (Loss)
+- at Vegas Golden Knights on 2025-02-20, Result: Vegas Golden Knights 5-2 Anaheim Ducks (Loss)
+- vs Washington Capitals on 2025-02-25, Result: Anaheim Ducks 3-3 Washington Capitals (Draw)
+- at Winnipeg Jets on 2025-03-01, Result: Winnipeg Jets 4-1 Anaheim Ducks (Loss)
+```
+
 #
 
 ![Slick](https://github.com/user-attachments/assets/97bed4cc-0aa7-44cd-aee6-16836b2123cc)
