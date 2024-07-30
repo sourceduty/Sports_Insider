@@ -10,6 +10,58 @@ One of the standout features of Sports Insider is its ability to create personal
 
 #
 
+```
+NASCAR Cup Series
+├── Teams
+│   ├── Team A
+│   │   ├── Driver 1
+│   │   ├── Driver 2
+│   │   └── Crew Chief
+│   ├── Team B
+│   │   ├── Driver 3
+│   │   ├── Driver 4
+│   │   └── Crew Chief
+│   └── Team C
+│       ├── Driver 5
+│       ├── Driver 6
+│       └── Crew Chief
+├── Cars
+│   ├── Specifications
+│   │   ├── Engine Power
+│   │   ├── Aerodynamics
+│   │   └── Safety Features
+│   └── Manufacturers
+│       ├── Chevrolet
+│       ├── Ford
+│       └── Toyota
+├── Races
+│   ├── Daytona 500
+│   ├── Coca-Cola 600
+│   ├── Brickyard 400
+│   └── Others (36 races total)
+├── Points System
+│   ├── Race Points
+│   │   ├── Finishing Position
+│   │   ├── Stage Wins
+│   │   └── Lap Led
+│   └── Playoffs
+│       ├── Round of 16
+│       ├── Round of 12
+│       ├── Round of 8
+│       └── Championship 4
+└── Governance
+    ├── NASCAR Officials
+    │   ├── Race Director
+    │   ├── Stewards
+    │   └── Technical Inspectors
+    └── Rules and Regulations
+        ├── Technical Rules
+        ├── Sporting Rules
+        └── Conduct Rules
+```
+
+#
+
 ![Slick](https://github.com/user-attachments/assets/97bed4cc-0aa7-44cd-aee6-16836b2123cc)
 
 #
