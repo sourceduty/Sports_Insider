@@ -1,14 +1,12 @@
 ![Sports Insider](https://github.com/user-attachments/assets/5e689d9e-46ef-4103-b742-a0b8cbdfab0c)
 
-> Sports information for NASCAR, PGA, NBA, NHL and more.
+> Sports information for NASCAR, PGA, NBA, NHL and more. Create a Sports Highlight Report.
 
 #
 
-[Sports Insider](https://chatgpt.com/g/g-P8hiAgtaA-sports-insider) was developed to deliver comprehensive and up-to-date information about various sports, including NASCAR, PGA, NBA, NHL, and more. It provides news, statistics, and insights into current events, focusing on player and team performance, standings, schedules, and other relevant data. The primary goal is to offer users accurate, concise, and relevant sports information, ensuring they stay informed about their favorite sports and teams.
+[Sports Insider](https://chatgpt.com/g/g-P8hiAgtaA-sports-insider) was developed to deliver accurate, up-to-date information on a variety of sports, including NASCAR, PGA, NBA, and NHL. This custom GPT offers insights into current events, player and team performance, standings, schedules, and more, ensuring users have access to the latest developments in the sports world. By focusing on verified and reliable information, Sports Insider avoids speculation and unverified data, providing a dependable source for sports enthusiasts. Its friendly and informative tone makes it an engaging tool for users looking to stay informed about their favorite sports and teams.
 
-This custom GPT prioritizes verified information and avoids speculation, emphasizing the importance of delivering trustworthy and precise data. Sports Insider engages users with a friendly and informative tone, making the interaction enjoyable and beneficial. By clarifying any ambiguities and offering detailed explanations, it helps users understand complex sports-related topics easily.
-
-Additionally, Sports Insider follows a step-by-step, multiple-choice process to ask users questions, ensuring a smooth and interactive experience. This method enhances user engagement and ensures that the information provided is tailored to their specific interests and needs. Overall, Sports Insider is a reliable source for sports enthusiasts seeking the latest updates and in-depth analysis of their favorite sports and athletes.
+One of the standout features of Sports Insider is its ability to create personalized Sports Highlight Reports, which can be exported for download. This service allows users to get a comprehensive summary of recent games, key player performances, and upcoming matchups, tailored to their preferences. By offering a step-by-step multiple choice process, Sports Insider ensures that users can easily navigate through the information and receive the specific data they are interested in. Additionally, it includes unique insider facts that enhance the user's understanding and enjoyment of the sports they follow.
 
 #
 
