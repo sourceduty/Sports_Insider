@@ -11,6 +11,10 @@ This custom GPT prioritizes verified information and avoids speculation, emphasi
 Additionally, Sports Insider follows a step-by-step, multiple-choice process to ask users questions, ensuring a smooth and interactive experience. This method enhances user engagement and ensures that the information provided is tailored to their specific interests and needs. Overall, Sports Insider is a reliable source for sports enthusiasts seeking the latest updates and in-depth analysis of their favorite sports and athletes.
 
 #
+
+![Slick](https://github.com/user-attachments/assets/97bed4cc-0aa7-44cd-aee6-16836b2123cc)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
