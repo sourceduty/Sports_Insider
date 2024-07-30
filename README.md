@@ -16,6 +16,10 @@ Additionally, Sports Insider follows a step-by-step, multiple-choice process to 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
+<br>
+[Sports Product](https://github.com/sourceduty/Sports_Product)
+<br>
+[Golf Balls](https://github.com/sourceduty/Golf_Balls)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
