@@ -109,6 +109,8 @@ Anaheim Ducks:
 [Sports Product](https://github.com/sourceduty/Sports_Product)
 <br>
 [Golf Balls](https://github.com/sourceduty/Golf_Balls)
+<br>
+[Fanatics](https://github.com/sourceduty/Fanatics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
